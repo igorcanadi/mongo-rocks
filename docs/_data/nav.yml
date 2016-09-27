@@ -1,0 +1,15 @@
+- title: Learn more
+  href: learn-more.html
+  category: docs
+
+- title: Blog posts
+  href: blog.html
+  category: blog
+
+- title: Support
+  href: support.html
+  category: support
+
+- title: Github
+  href: https://www.github.com/mongodb-partners/mongo-rocks
+  category: github

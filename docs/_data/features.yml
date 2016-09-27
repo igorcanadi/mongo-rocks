@@ -1,0 +1,19 @@
+- title: High Performance, Great Compression
+  text: |
+        MongoRocks is powered by RocksDB, which is known for its high performance and great compression.
+  image: images/promo-performance.svg
+
+- title: Fast, Incremental, Queryable Backups
+  text: |
+        [Rocks-strata](https://github.com/facebookgo/rocks-strata) is a utility for MongoRocks that enables fast and incremental backups. Not only that, it also lets you query your backups without restoring the full database.
+  image: images/promo-flash.svg
+
+- title: Battle tested
+  text: |
+        MongoRocks has been running at Parse for a year and a half. Its underlying storage engine, RocksDB, is in production at web scale companies like Facebook, LinkedIn, Netflix, Airbnb and Pinterest ([source](https://github.com/facebook/rocksdb/blob/master/USERS.md))
+  image: images/promo-adapt.svg
+
+- title: Supported by Percona
+  text: |
+        Experts at Percona support MongoRocks. [Percona Server for MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) includes RocksDB storage engine.
+  image: images/promo-operations.svg
